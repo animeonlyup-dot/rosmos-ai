@@ -8,7 +8,7 @@ source.include_exts = py,jpg,png
 
 version = 1.0
 
-requirements = python3,kivy,kivymd,requests,pyttsx3,speechrecognition,plyer
+requirements = python3,kivy,kivymd,requests,speechrecognition,plyer
 
 orientation = portrait
 
